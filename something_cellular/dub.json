@@ -1,0 +1,7 @@
+{
+	"name": "something_cellular",
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "Experimenting with cellular automata",
+}
